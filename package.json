@@ -1,0 +1,12 @@
+{
+  "name": "jutop",
+  "version": "1.0.0",
+  "description": "CSS in JS library utility tool for parsing theme object into CSS variables",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+ "files": ["/dist"], 
+  "repository": "git@github.com:dominik-stumpf/jutop.git",
+  "author": "Dominik Stumpf <s.dominik.work@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
